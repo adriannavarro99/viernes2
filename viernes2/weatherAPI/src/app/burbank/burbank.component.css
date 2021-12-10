@@ -1,0 +1,17 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+
+.field{
+    width: 50%;
+}
+
+.image{
+    width:600px;
+    height:400px;
+}
